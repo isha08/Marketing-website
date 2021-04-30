@@ -1,0 +1,58 @@
+
+.tagline{
+  font-size: 14px;
+}
+
+.heading{
+  font-size:70px;
+}
+h1,h4{
+  padding:20px;
+}
+.big-heading,.tag{
+  padding:16px 0 0 0;
+}
+.banner {
+padding: 150px;
+height: 100vh;
+background-size: cover;
+background-image:url("cover.jpeg");
+}
+
+.content{
+color: white;
+position: relative;
+overflow: hidden;
+background-color: rgba(0, 0, 0, 0.3);
+width: 890px;
+}
+.navbar-brand{
+font-family: 'Nanum Pen Script', cursive;
+font-size:3.5rem;
+font-weight:bold;
+}
+.nav-item{
+  padding: 0 5px;
+}
+.nav-link{
+  font-size:1.5rem;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+.cont-about{
+  padding: 10% 7% 0 7% ;
+}
+#pricing {
+  padding:60px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+#footer{
+  text-align: center;
+  padding: 5%;
+
+}
